@@ -1,2 +1,2 @@
-# Image-segmentation-mask-R_CNN-
-Aside from the bounding boxes, the model is also able to predict segmentation masks for each instance of a class in the image
+# Recognition of objects in an image by means of: Image-segmentation-mask-R_CNN
+In this project, the type of object that is contained in an image is detected, whether it is a person, car, motorcycle, etc., by means of bounding boxes.
